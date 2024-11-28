@@ -1,0 +1,3 @@
+[submodule "softloq-unicode-hpp"]
+	path = softloq-unicode-hpp
+	url = https://github.com/brandonfoster/softloq-unicode-hpp
