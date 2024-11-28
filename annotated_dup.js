@@ -11,6 +11,9 @@ var annotated_dup =
         [ "Number", "dd/d1c/classSoftloq_1_1JSON_1_1Number.html", "dd/d1c/classSoftloq_1_1JSON_1_1Number" ],
         [ "Object", "d3/d06/classSoftloq_1_1JSON_1_1Object.html", "d3/d06/classSoftloq_1_1JSON_1_1Object" ],
         [ "String", "df/dcd/classSoftloq_1_1JSON_1_1String.html", "df/dcd/classSoftloq_1_1JSON_1_1String" ]
+      ] ],
+      [ "Unicode", null, [
+        [ "Error", "d9/dce/structSoftloq_1_1Unicode_1_1Error.html", "d9/dce/structSoftloq_1_1Unicode_1_1Error" ]
       ] ]
     ] ]
 ];

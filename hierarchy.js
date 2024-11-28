@@ -10,6 +10,7 @@ var hierarchy =
       [ "Softloq::JSON::String", "df/dcd/classSoftloq_1_1JSON_1_1String.html", null ]
     ] ],
     [ "Softloq::JSON::Error", "d2/dc3/structSoftloq_1_1JSON_1_1Error.html", null ],
+    [ "Softloq::Unicode::Error", "d9/dce/structSoftloq_1_1Unicode_1_1Error.html", null ],
     [ "std::unordered_map", null, [
       [ "Softloq::JSON::Object", "d3/d06/classSoftloq_1_1JSON_1_1Object.html", null ]
     ] ],
